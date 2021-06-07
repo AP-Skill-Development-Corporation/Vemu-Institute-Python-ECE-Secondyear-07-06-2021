@@ -14,13 +14,14 @@
 
 
 ## Python Workshop Syllabus
-
+    
 [Python Syllabus](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Python%20Programming.pdf)
 
 
-## Day-1 and Day-2 Python Slides
-
-    [Day-1 and Day-2 PPT](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Programming_Using_Python_Slides.pdf)
+## Python Slides
+    
+    
+[Python PPT](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Programming_Using_Python_Slides.pdf)
 
 
 
