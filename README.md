@@ -18,6 +18,10 @@
 [Python Syllabus](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Python%20Programming.pdf)
 
 
+## Day-1 and Day-2 Python Slides
+[]()
+
+
 
 # Day1 Introduction to Python and Software Installation (07-June-2021):
 
