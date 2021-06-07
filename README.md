@@ -19,7 +19,8 @@
 
 
 ## Day-1 and Day-2 Python Slides
-[]()
+
+    [Day-1 and Day-2 PPT](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Programming_Using_Python_Slides.pdf)
 
 
 
