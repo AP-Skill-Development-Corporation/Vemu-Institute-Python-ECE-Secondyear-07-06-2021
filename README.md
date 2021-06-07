@@ -13,6 +13,12 @@
 - Attendance sheet reference purpose only(make sure to follow above instructions to get present) → []()
 
 
+## Python Workshop Syllabus
+
+[]()
+
+
+
 # Day1 Introduction to Python and Software Installation (07-June-2021):
 
 1. Installation for anaconda
