@@ -38,7 +38,7 @@
     [Click here for APSSDC Registration](http://engineering.apssdc.in/register/)
     
     
- ## Day-1 Recoding Session Link -- > [Day-1](https://transcripts.gotomeeting.com/#/s/d4145e625e3d2496610bd6acade77d75f48fc39fc709f81275bc69dc616a464d)
+ ### Day-1 Recoding Session Link -- > [Day-1](https://transcripts.gotomeeting.com/#/s/d4145e625e3d2496610bd6acade77d75f48fc39fc709f81275bc69dc616a464d)
  
  
  
