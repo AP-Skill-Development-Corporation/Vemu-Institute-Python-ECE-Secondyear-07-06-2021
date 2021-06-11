@@ -92,3 +92,60 @@
     - How to Signup In Github
 
 ### Day-3 Recording Link  -->[Day-3](https://transcripts.gotomeeting.com/#/s/6b3054bee73a728aa7f29af05316410881303e400beaa1fdce13d70e1fc1c029)
+
+
+
+# Day-4 (Git,Github ,Git bash)
+
+- What is github
+- What is Git
+- what is Git bash
+- Differences between Git and Github
+- Linux commands
+    - pwd : Present Working Directory
+    - ls : To see hidden files
+    - cd : Change directory
+    - mkdir : Make directory/create directory(folder)
+    - rmdir : remove directory(folder)
+    - touch: To create a file
+    - man/help : to know about all commands
+    - cat : To display content inside a file
+    - nano: To create and write data inside file
+- How to move files in local repository to remote repository
+    - ***git init [repository name]***: This command is used to start a new repository.
+
+         - eg : git init
+
+    - ***git add filename***: This command adds a file to the staging area.
+        - eg : git add sample.txt
+    
+    - ***git add * or git add . ***: This command adds one or more to the staging area.
+        - eg : git add .
+    
+    - ***git commit -m “Type in the commit message” ***  : This command records or snapshots the file permanently in the version history.
+        - eg: git commit -m "sample.txt file send"
+
+    - ***git commit -a *** :This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
+
+    - ***git status *** : This command lists all the files that have to be committed.
+         - eg : git status
+    
+    - ***git remote add [variable name][Remote Server Link] *** : This command is used to connect your local repository to the remote server.
+         - eg: git remote add origin "url repository link"
+    
+    - ***git push [variable name] master ***: This command sends the committed changes of master branch to your remote repository.
+        - eg: git push origin master
+
+    - ***git config --global user.name : add git username ***: This command sets the author name and email address respectively to be used with your commits.
+         - eg : git config --global user.name "indupriya"
+    
+    - ***git config --global user.email : add git user email ***:This command sets the author name and email address respectively to be used with your commits.
+         - eg : git config --global user.email "indupriya.p@apssdc.in"    
+- How to store files in remote Repository to Local Repository
+    - git clone "remote repository url"    
+- How to access public files to remote to remote repository
+    - fork 
+
+
+
+### Day-4 Recoding Link --> [Day-4](https://transcripts.gotomeeting.com/#/s/47764bf2976efaf96354460a794d231f7e7ecbb726e1952c1771ac6fa73bef2f)
