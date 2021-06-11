@@ -171,4 +171,4 @@
             - dynamic
 
 
-### Day -5 Recording link -->[Day-5]()
+### Day -5 Recording link -->[Day-5](https://transcripts.gotomeeting.com/#/s/da98b7a2f883fcbb432989cd779d7adcada99320857674a510381d86ba724ea8)
