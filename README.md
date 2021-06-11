@@ -42,7 +42,7 @@
  
  
  
- # Day-2(Jupyter Notebook and Python)
+ # Day-2(Jupyter Notebook and Python)(08-06-2021)
  
  - How to Install Anaconda Navigator
  - Python History
@@ -95,7 +95,7 @@
 
 
 
-# Day-4 (Git,Github ,Git bash)
+# Day-4 (Git,Github ,Git bash) (10-06-2021)
 
 - What is github
 - What is Git
@@ -149,3 +149,26 @@
 
 
 ### Day-4 Recoding Link --> [Day-4](https://transcripts.gotomeeting.com/#/s/47764bf2976efaf96354460a794d231f7e7ecbb726e1952c1771ac6fa73bef2f)
+
+
+# Day-5(Python Basics,Data Types)(11-06-2021)
+
+- Python basics
+    - comment lines
+        - single line 
+        - multiple lines 
+    - variables
+    - datatypes
+        - Numerical
+            - integer
+            - float
+            - boolean
+            - complex
+            - static 
+            - dynamic
+        - String
+            - static
+            - dynamic
+
+
+### Day -5 Recording link -->[Day-5]()
