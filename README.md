@@ -67,7 +67,7 @@
     
     
     
-## Day-3(Markdown and Github)(09-06-2021)
+# Day-3(Markdown and Github)(09-06-2021)
 
 - Jupyter Notebook
     -  Literate Programming
