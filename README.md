@@ -112,34 +112,34 @@
     - cat : To display content inside a file
     - nano: To create and write data inside file
 - How to move files in local repository to remote repository
-    - ***git init [repository name]***: This command is used to start a new repository.
+    - git init [repository name]: This command is used to start a new repository.
 
          - eg : git init
 
-    - ***git add filename***: This command adds a file to the staging area.
+    - git add filename: This command adds a file to the staging area.
         - eg : git add sample.txt
     
-    - ***git add * or git add . ***: This command adds one or more to the staging area.
+    - git add * or git add . : This command adds one or more to the staging area.
         - eg : git add .
     
-    - ***git commit -m “Type in the commit message” ***  : This command records or snapshots the file permanently in the version history.
+    - git commit -m “Type in the commit message”  : This command records or snapshots the file permanently in the version history.
         - eg: git commit -m "sample.txt file send"
 
-    - ***git commit -a *** :This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
+    - git commit -a  :This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
 
-    - ***git status *** : This command lists all the files that have to be committed.
+    - git status : This command lists all the files that have to be committed.
          - eg : git status
     
-    - ***git remote add [variable name][Remote Server Link] *** : This command is used to connect your local repository to the remote server.
+    - git remote add [variable name][Remote Server Link] : This command is used to connect your local repository to the remote server.
          - eg: git remote add origin "url repository link"
     
-    - ***git push [variable name] master ***: This command sends the committed changes of master branch to your remote repository.
+    - git push [variable name] master : This command sends the committed changes of master branch to your remote repository.
         - eg: git push origin master
 
-    - ***git config --global user.name : add git username ***: This command sets the author name and email address respectively to be used with your commits.
+    - git config --global user.name : add git username : This command sets the author name and email address respectively to be used with your commits.
          - eg : git config --global user.name "indupriya"
     
-    - ***git config --global user.email : add git user email ***:This command sets the author name and email address respectively to be used with your commits.
+    - git config --global user.email : add git user email :This command sets the author name and email address respectively to be used with your commits.
          - eg : git config --global user.email "indupriya.p@apssdc.in"    
 - How to store files in remote Repository to Local Repository
     - git clone "remote repository url"    
@@ -191,4 +191,4 @@
     * Identity Operators (is, isnot)
     * Membership Operators (in,not in)
 
-### Day-6 Recording Link -->[Day-6]()
+### Day-6 Recording Link -->[Day-6](https://transcripts.gotomeeting.com/#/s/71636428ec0bbbfcb0492698e093e2105f51ffa49f41728fa9dd7a5e073333c7)
