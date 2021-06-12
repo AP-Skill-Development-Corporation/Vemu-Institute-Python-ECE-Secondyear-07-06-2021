@@ -172,3 +172,23 @@
 
 
 ### Day -5 Recording link -->[Day-5](https://transcripts.gotomeeting.com/#/s/da98b7a2f883fcbb432989cd779d7adcada99320857674a510381d86ba724ea8)
+
+
+# Day-6 (Data Types ,Keywords,operators)
+
+- Data Types
+    - List
+    - Tuple
+    - Dictionary
+    - Set
+- Keywords
+- Operators
+    * Arithematic Operators(+,-,*,/,%,//,*)
+    * Assignament Operators(+=,-=,*=,/=,%=,//=)
+    * Comparision Operators(<,>,==,<=,>=,!=)
+    * Logical Operators(and,or,not)
+    * Bitwise Operators (&,|,^)
+    * Identity Operators (is, isnot)
+    * Membership Operators (in,not in)
+
+### Day-6 Recording Link -->[Day-6]()
