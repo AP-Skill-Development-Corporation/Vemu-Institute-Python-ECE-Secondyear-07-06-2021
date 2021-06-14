@@ -1,6 +1,27 @@
 # Vemu-Institute-Python-ECE-Secondyear-07-06-2021
 
 
+<hr>
+
+ #  Updates
+ ##  New meeting id generated
+- Good morning to everyone,
+- the meeting id changed from today,i mentioned below the meeting id. Please join the session from this meeting id.
+
+- Please join my meeting from your computer, tablet or smartphone.
+     - Click below link for joining meeting
+     - [https://www.gotomeet.me/batch2vemu](https://www.gotomeet.me/batch2vemu) 
+
+- You can also dial in using your phone.
+- United States: +1 (224) 501-3412
+
+- Access Code: 473-182-765
+
+
+- New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/473182765
+
+
+<hr>
 ## Instructions for attendance
 
 - Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
