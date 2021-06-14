@@ -197,7 +197,7 @@
 ### Day -5 Recording link -->[Day-5](https://transcripts.gotomeeting.com/#/s/da98b7a2f883fcbb432989cd779d7adcada99320857674a510381d86ba724ea8)
 
 
-# Day-6 (Data Types ,Keywords,operators)
+# Day-6 (Data Types ,Keywords,operators)(12-06-2021)
 
 - Data Types
     - List
@@ -215,3 +215,23 @@
     * Membership Operators (in,not in)
 
 ### Day-6 Recording Link -->[Day-6](https://transcripts.gotomeeting.com/#/s/71636428ec0bbbfcb0492698e093e2105f51ffa49f41728fa9dd7a5e073333c7)
+
+
+
+# Day-7 (Conditions Loops)(14-06-2021)
+
+- Conditionals
+  - if
+  - if else
+  - elif
+  - elif else
+  - nested if
+  - problem solving and task
+
+- Loops
+  - for
+  - while loop
+  - problem solving and task
+
+
+### Day-7 Recording Link --> [Day-7]()
