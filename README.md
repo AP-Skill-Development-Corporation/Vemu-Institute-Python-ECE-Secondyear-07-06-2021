@@ -33,7 +33,7 @@
 - Don't give spaces between rollnumber and name (only - single minus or hyphen character)
 - Make sure roll number should match with the registered roll number
 - Required attendance minimum 120 minutes out of 150 minutes session
-- Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [Click Here](https://docs.google.com/spreadsheets/d/1_oBANY8jEcMpAmJKDWbTaqby1x5_YgKdVgvKJ9g4HLU/edit?usp=sharing)
+- Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [Click Here](https://docs.google.com/spreadsheets/d/1qISLiX_qhsuxDkif4282MJgFwMjWwAQu7LDilOTrj-o/edit?usp=sharing)
 
 
 ## Python Workshop Syllabus
