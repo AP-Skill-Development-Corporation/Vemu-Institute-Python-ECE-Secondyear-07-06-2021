@@ -235,3 +235,14 @@
 
 
 ### Day-7 Recording Link --> [Day-7](https://transcripts.gotomeeting.com/#/s/646ce8b5ac22a9730f0ecc19a4fd06db4aee0db7ec69de2ad7a68bcfcd430000)
+
+
+
+# Day-8(Nested Loops and Conditionals)(15-06-2021)
+
+- for in for
+- for in while
+- while in for
+- while in while
+- Problem solving on above concepts
+- Task explanation for Loops and conditions
