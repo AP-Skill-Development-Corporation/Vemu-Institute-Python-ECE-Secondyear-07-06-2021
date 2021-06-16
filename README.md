@@ -246,3 +246,27 @@
 - while in while
 - Problem solving on above concepts
 - Task explanation for Loops and conditions
+
+
+### Day-8 Recording Link-->[DAY-8](https://transcripts.gotomeeting.com/#/s/d069a6400c6cf397c257aa2f34031d050161ec031cb496f0d46e86511386042d)
+
+
+
+# Day-9 (Functions)(16-06-2021)
+
+- What is Function
+- Different Types of Functions
+   - Pre-defined/Built-in functions
+   - User Defined Functions
+      - With arguments with return type
+     - Without arguments and with return type 
+     - With arguments without return type
+     - Without arguments without return type
+    
+     - Required Argument/ Positionl Argument
+     - Keyword Argument
+     - Default Argument
+     - Variable Length Argument 
+
+
+### Day-9 Recording Link-->[Day-9](https://transcripts.gotomeeting.com/#/s/22ab1b05178196acbd326a56dee02e253df24898d0395c82dc4f56132ba2a6f5)
