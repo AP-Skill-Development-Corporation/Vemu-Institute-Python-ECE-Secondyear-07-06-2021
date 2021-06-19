@@ -5,8 +5,7 @@
 
  #  Updates
  
- ### Guys today(18-06-2021) I facing some  technical issues. :frowning_face: .. so, I can't  upload your attendence data and class notes....Sorry 😔: for Inconvinience..:disappointed:..Once ,I solve this issue I uploaded .......Thank you... :smiley:   :wave:
- 
+
  ##  New meeting id generated
 - Good morning to everyone,
 - the meeting id changed from today,i mentioned below the meeting id. Please join the session from this meeting id.
