@@ -5,6 +5,11 @@
 
  #  Updates
  
+ ### Registration Details(Reference Purpose only) If you are already  register, but your data is not available in this sheet please register one more time ...If you are already  register, but your details have any mistake please inform us either in meeting or mail to us...
+Thank you...
+
+:point_right: [Click Here]()
+ 
 
  ##  New meeting id generated
 - Good morning to everyone,
