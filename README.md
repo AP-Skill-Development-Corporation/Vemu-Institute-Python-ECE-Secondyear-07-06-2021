@@ -272,3 +272,34 @@
 
 
 ### Day-9 Recording Link-->[Day-9](https://transcripts.gotomeeting.com/#/s/22ab1b05178196acbd326a56dee02e253df24898d0395c82dc4f56132ba2a6f5)
+
+
+Day-10(Strings and Data structures)(17-06-2021)
+
+- Strings
+   - Indexing
+   - slicing
+   - String Methods
+
+- Data Structures
+   - List Intro
+
+
+### Day-10(Recording Link)-->[Day-10](https://transcripts.gotomeeting.com/#/s/bc1ed502184619aaee559597096a2a737a8428b0ec61ced03d6d1eb489646ff2)
+
+
+
+# Day-11(Data Structures)(19-06-2021)
+
+- List conti..
+- Tuple
+- Dictionary
+- set
+
+### Day-11(Recording Link)-->[Day-11](https://transcripts.gotomeeting.com/#/s/aa7de5d34289abaa7b4446951913349a6c23f4fb08c3a26c78ec79a8a21f2e04)
+
+# Day-12(Packages and Modules)(19-06-2021)
+
+- Packaes and Modules 
+
+### Day-12(RecordingLink)-->[Day-12](https://transcripts.gotomeeting.com/#/s/2b3096b7c30b8f239d94fd749ed771590c41b0d61a20b0df9e24a030fcf0563a)
