@@ -43,7 +43,7 @@ Thank you...
 - Attendance sheet reference purpose only(make sure to follow above instructions to get present) → [Click Here](https://docs.google.com/spreadsheets/d/1qISLiX_qhsuxDkif4282MJgFwMjWwAQu7LDilOTrj-o/edit?usp=sharing)
 
 
-## Python Workshop Syllabus
+## Python Workshop Syllabus :green_book:
     
 [Python Syllabus](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Python%20Programming.pdf)
 
@@ -55,17 +55,17 @@ Thank you...
 
 # Day1 Introduction to Python and Software Installation (07-June-2021):
 
-1. Installation for anaconda
+1. Installation for anaconda :computer:
 
     [Anaconda Installation](https://www.anaconda.com/products/individual)
     
-2. Installation for IDLE
+2. Installation for IDLE :computer:
     
     [IDLE Installation](https://www.python.org/)
 
-3.  Registration Link for Python and Github
+3.  Registration Link for Python and Github :link:
 
-    [Click here for APSSDC Registration](http://engineering.apssdc.in/register/)
+    👉 [Click here for APSSDC Registration](http://engineering.apssdc.in/register/)
     
     
  ### Day-1 Recoding Session Link :point_right: [Day-1](https://transcripts.gotomeeting.com/#/s/d4145e625e3d2496610bd6acade77d75f48fc39fc709f81275bc69dc616a464d)
@@ -88,7 +88,7 @@ Thank you...
  - Features Of Python
  - Diferent Types of Softwares for python programming
 
-## Python Slides
+## Python Slides :pager:
     
     
 [Python PPT](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Programming_Using_Python_Slides.pdf)
@@ -97,7 +97,7 @@ Thank you...
     
     
     
-# Day-3(Markdown and Github)(09-06-2021)
+# Day-3(Markdown and Github)(09-06-2021) 
 
 - Jupyter Notebook
     -  Literate Programming
