@@ -8,7 +8,7 @@
  ### Registration Details(Reference Purpose only) If you are already  register, but your data is not available in this sheet please register one more time ...If you are already  register, but your details have any mistake please inform us either in meeting or mail to us...
 Thank you...
 
-:point_right: [Click Here]()
+:point_right: [Click Here To know Registration Details](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Registration%20student%20list(checking%20purpose).csv)
  
 
  ##  New meeting id generated
@@ -16,7 +16,7 @@ Thank you...
 - the meeting id changed from today,i mentioned below the meeting id. Please join the session from this meeting id.
 
 - Please join my meeting from your computer, tablet or smartphone.
-     - Click below link for joining meeting
+     - Click :point_down: below link for joining meeting
      - [https://www.gotomeet.me/batch2vemu](https://www.gotomeet.me/batch2vemu) 
 
 - You can also dial in using your phone.
@@ -68,7 +68,7 @@ Thank you...
     [Click here for APSSDC Registration](http://engineering.apssdc.in/register/)
     
     
- ### Day-1 Recoding Session Link -- > [Day-1](https://transcripts.gotomeeting.com/#/s/d4145e625e3d2496610bd6acade77d75f48fc39fc709f81275bc69dc616a464d)
+ ### Day-1 Recoding Session Link :point_right: [Day-1](https://transcripts.gotomeeting.com/#/s/d4145e625e3d2496610bd6acade77d75f48fc39fc709f81275bc69dc616a464d)
  
  
  
@@ -93,7 +93,7 @@ Thank you...
     
 [Python PPT](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Programming_Using_Python_Slides.pdf)
 
-### Day-2(Recording Session Link) -->[Day-2](https://transcripts.gotomeeting.com/#/s/2f53dab711e774d2154c95cc5cdef71312023b73df2094536d4651d7be1338b8)
+### Day-2(Recording Session Link) :point_right: [Day-2](https://transcripts.gotomeeting.com/#/s/2f53dab711e774d2154c95cc5cdef71312023b73df2094536d4651d7be1338b8)
     
     
     
@@ -121,7 +121,7 @@ Thank you...
     - Git Download and Install Link --> [Git Download](https://git-scm.com/downloads)  
     - How to Signup In Github
 
-### Day-3 Recording Link  -->[Day-3](https://transcripts.gotomeeting.com/#/s/6b3054bee73a728aa7f29af05316410881303e400beaa1fdce13d70e1fc1c029)
+### Day-3 Recording Link  :point_right: [Day-3](https://transcripts.gotomeeting.com/#/s/6b3054bee73a728aa7f29af05316410881303e400beaa1fdce13d70e1fc1c029)
 
 
 
@@ -178,7 +178,7 @@ Thank you...
 
 
 
-### Day-4 Recoding Link --> [Day-4](https://transcripts.gotomeeting.com/#/s/47764bf2976efaf96354460a794d231f7e7ecbb726e1952c1771ac6fa73bef2f)
+### Day-4 Recoding Link :point_right:  [Day-4](https://transcripts.gotomeeting.com/#/s/47764bf2976efaf96354460a794d231f7e7ecbb726e1952c1771ac6fa73bef2f)
 
 
 # Day-5(Python Basics,Data Types)(11-06-2021)
@@ -201,7 +201,7 @@ Thank you...
             - dynamic
 
 
-### Day -5 Recording link -->[Day-5](https://transcripts.gotomeeting.com/#/s/da98b7a2f883fcbb432989cd779d7adcada99320857674a510381d86ba724ea8)
+### Day -5 Recording link :point_right: [Day-5](https://transcripts.gotomeeting.com/#/s/da98b7a2f883fcbb432989cd779d7adcada99320857674a510381d86ba724ea8)
 
 
 # Day-6 (Data Types ,Keywords,operators)(12-06-2021)
@@ -221,7 +221,7 @@ Thank you...
     * Identity Operators (is, isnot)
     * Membership Operators (in,not in)
 
-### Day-6 Recording Link -->[Day-6](https://transcripts.gotomeeting.com/#/s/71636428ec0bbbfcb0492698e093e2105f51ffa49f41728fa9dd7a5e073333c7)
+### Day-6 Recording Link :point_right: [Day-6](https://transcripts.gotomeeting.com/#/s/71636428ec0bbbfcb0492698e093e2105f51ffa49f41728fa9dd7a5e073333c7)
 
 
 
@@ -241,7 +241,7 @@ Thank you...
   - problem solving and task
 
 
-### Day-7 Recording Link --> [Day-7](https://transcripts.gotomeeting.com/#/s/646ce8b5ac22a9730f0ecc19a4fd06db4aee0db7ec69de2ad7a68bcfcd430000)
+### Day-7 Recording Link :point_right: [Day-7](https://transcripts.gotomeeting.com/#/s/646ce8b5ac22a9730f0ecc19a4fd06db4aee0db7ec69de2ad7a68bcfcd430000)
 
 
 
@@ -255,7 +255,7 @@ Thank you...
 - Task explanation for Loops and conditions
 
 
-### Day-8 Recording Link-->[DAY-8](https://transcripts.gotomeeting.com/#/s/d069a6400c6cf397c257aa2f34031d050161ec031cb496f0d46e86511386042d)
+### Day-8 Recording Link :point_right: [DAY-8](https://transcripts.gotomeeting.com/#/s/d069a6400c6cf397c257aa2f34031d050161ec031cb496f0d46e86511386042d)
 
 
 
@@ -276,7 +276,7 @@ Thank you...
      - Variable Length Argument 
 
 
-### Day-9 Recording Link-->[Day-9](https://transcripts.gotomeeting.com/#/s/22ab1b05178196acbd326a56dee02e253df24898d0395c82dc4f56132ba2a6f5)
+### Day-9 Recording Link  :point_right:  [Day-9](https://transcripts.gotomeeting.com/#/s/22ab1b05178196acbd326a56dee02e253df24898d0395c82dc4f56132ba2a6f5)
 
 
 # Day-10(Strings and Data structures)(17-06-2021)
@@ -290,7 +290,7 @@ Thank you...
    - List Intro
 
 
-### Day-10(Recording Link)-->[Day-10](https://transcripts.gotomeeting.com/#/s/bc1ed502184619aaee559597096a2a737a8428b0ec61ced03d6d1eb489646ff2)
+### Day-10(Recording Link)  :point_right: [Day-10](https://transcripts.gotomeeting.com/#/s/bc1ed502184619aaee559597096a2a737a8428b0ec61ced03d6d1eb489646ff2)
 
 
 
@@ -301,10 +301,10 @@ Thank you...
 - Dictionary
 - set
 
-### Day-11 Recording Link-->[Day-11](https://transcripts.gotomeeting.com/#/s/aa7de5d34289abaa7b4446951913349a6c23f4fb08c3a26c78ec79a8a21f2e04)
+### Day-11 Recording Link  :point_right: [Day-11](https://transcripts.gotomeeting.com/#/s/aa7de5d34289abaa7b4446951913349a6c23f4fb08c3a26c78ec79a8a21f2e04)
 
 # Day-12(Packages and Modules)(19-06-2021)
 
 - Packaes and Modules 
 
-### Day-12 RecordingLink-->[Day-12](https://transcripts.gotomeeting.com/#/s/2b3096b7c30b8f239d94fd749ed771590c41b0d61a20b0df9e24a030fcf0563a)
+### Day-12 RecordingLink  :point_right:  [Day-12](https://transcripts.gotomeeting.com/#/s/2b3096b7c30b8f239d94fd749ed771590c41b0d61a20b0df9e24a030fcf0563a)
