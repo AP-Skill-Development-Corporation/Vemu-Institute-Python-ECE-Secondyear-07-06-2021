@@ -308,3 +308,15 @@ Thank you...
 - Packaes and Modules 
 
 ### Day-12 RecordingLink  :point_right:  [Day-12](https://transcripts.gotomeeting.com/#/s/2b3096b7c30b8f239d94fd749ed771590c41b0d61a20b0df9e24a030fcf0563a)
+
+
+# Day-15(Iterators,Generators,Lambda)
+
+- Iterators
+- Generators
+- Lambda
+  - Lambda with filter
+  - Lambda with map
+  - Book store programme
+
+### Day-15 Recording Link :point_right: [Day-15](https://transcripts.gotomeeting.com/#/s/8758384d479678cb3b29e85a1e10dfd09c3db924fbcd70ef2c45bea99c668626)
