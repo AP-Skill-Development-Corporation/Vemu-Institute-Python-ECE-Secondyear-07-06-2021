@@ -320,3 +320,20 @@ Thank you...
   - Book store programme
 
 ### Day-15 Recording Link :point_right: [Day-15](https://transcripts.gotomeeting.com/#/s/8758384d479678cb3b29e85a1e10dfd09c3db924fbcd70ef2c45bea99c668626)
+
+
+
+# Day-16(Contact APP,Prime or not,OOPs)
+
+- Contact APP
+    - Display contacts
+    - Edit Contacts
+    - Delete Contact
+    - Search Contact
+- Prime or not using lambda ,map,filter
+- OOPs
+     - Introduction
+     - Class
+     - object
+
+### Day-16 Recording Link :point_right: [Day-16](https://transcripts.gotomeeting.com/#/s/15716128559dd70595477476415cc39b278e54aefd1f197ae2ecaac5eac2c6e6)
