@@ -8,7 +8,7 @@
  ### Registration Details(Reference Purpose only) If you are already  register, but your data is not available in this sheet please register one more time ...If you are already  register, but your details have any mistake please inform us either in meeting or mail to us...
 Thank you...
 
-:point_right: [Click Here To know Registration Details](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Registration%20student%20list(checking%20purpose).csv)
+:point_right: [Click Here To know Registration Details](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/REGISTER.pdf)
  
 
  ##  New meeting id generated
