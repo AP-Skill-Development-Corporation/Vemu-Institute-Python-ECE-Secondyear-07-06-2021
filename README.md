@@ -337,3 +337,17 @@ Thank you...
      - object
 
 ### Day-16 Recording Link :point_right: [Day-16](https://transcripts.gotomeeting.com/#/s/15716128559dd70595477476415cc39b278e54aefd1f197ae2ecaac5eac2c6e6)
+
+
+# Day-17(OOPS conti.... ,Packages and modules in OOPS)(25-06-2021)
+
+- OOPS
+     - Constructor
+     - Inheritance
+          -  Types of Inheritance
+                - Single Inheritance
+                - Multi Level Inheritance  
+                - Multiple Inheritance
+                - Hybrid Inheritance
+
+- Packages and Modules in OOPs
