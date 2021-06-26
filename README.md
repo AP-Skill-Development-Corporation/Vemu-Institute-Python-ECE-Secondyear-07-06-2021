@@ -303,14 +303,39 @@ Thank you...
 
 ### Day-11 Recording Link  :point_right: [Day-11](https://transcripts.gotomeeting.com/#/s/aa7de5d34289abaa7b4446951913349a6c23f4fb08c3a26c78ec79a8a21f2e04)
 
-# Day-12(Packages and Modules)(19-06-2021)
+# Day-12(Packages and Modules)(20-06-2021)
 
-- Packaes and Modules 
+- Packages and Modules 
 
 ### Day-12 RecordingLink  :point_right:  [Day-12](https://transcripts.gotomeeting.com/#/s/2b3096b7c30b8f239d94fd749ed771590c41b0d61a20b0df9e24a030fcf0563a)
 
 
-# Day-15(Iterators,Generators,Lambda)
+# Day-13(Regular Expressions)(21-06-2021)
+
+- Regular Expressions
+   - Email validation
+   - Phone number validation
+
+### Day-13 RecordingLink  :point_right: [Day-13](https://transcripts.gotomeeting.com/#/s/07945bfefde4b90284096d053017a3a8cd2400f984962a0fb58714d9a18bb6b9)
+
+
+# Day-14(File Handling ,List Comprehension, Map,Filter,Reduce ,Iterators intro)(22-06-2021)
+
+- File Handling
+    - read 
+    - write 
+    - append
+
+- List Comprehension
+- Map
+- Filter
+- Reduce
+
+
+### Day-14 Recording Link :point_right: [Day-14](https://transcripts.gotomeeting.com/#/s/c7b0d7b7c95a98e77c53d4848e15191a1ad7e82509a4c7c592f74e337ecd9b4d)
+
+
+# Day-15(Iterators,Generators,Lambda)(23-06-2021)
 
 - Iterators
 - Generators
@@ -323,7 +348,7 @@ Thank you...
 
 
 
-# Day-16(Contact APP,Prime or not,OOPs)
+# Day-16(Contact APP,Prime or not,OOPs)(24-06-2021)
 
 - Contact APP
     - Display contacts
@@ -353,3 +378,40 @@ Thank you...
 - Packages and Modules in OOPs
 
 ### Day-17 Recording Link: :point_right: [Day-17](https://transcripts.gotomeeting.com/#/s/6e40b52f56142ccf58b5132db92e844c90e2bb46344b7242f3a725e82b64ea3e)
+
+
+
+# Day-18(Numpy,Pandas,Matplotlib)(26-06-2021)
+
+- Numpy
+    - Arrays()
+        - Array is a homogeneous datatype
+        - 1-D
+        - 2-D
+        - n-D- 
+    - Arange()
+    - zeros()
+    - ones()
+    - linspace()
+    - eye()
+    - random()    
+   - Numpy Properties
+        - ndim(no.of dimensions
+        - shape(return the length of array in tuple format)
+        - size(It returns count of multiply the elements
+        - Itemsize(Returns  the size of an elements in bytes)
+        - datatype(datatype)
+- Pandas
+    - Series
+    - Data Frames
+
+- Matplotlib
+     - Line graph
+     - bar graph
+     - scatter graph
+     -  histogram
+     -  boxplot
+     -  pie chart
+
+
+### Day-18 Recording Link :point_right: [Day-18](https://transcripts.gotomeeting.com/#/s/d195a7c9023a3a986bea42be1438d45c054438afc79fc4357ae2fcebdc8259e8)
