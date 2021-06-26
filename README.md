@@ -415,3 +415,10 @@ Thank you...
 
 
 ### Day-18 Recording Link :point_right: [Day-18](https://transcripts.gotomeeting.com/#/s/d195a7c9023a3a986bea42be1438d45c054438afc79fc4357ae2fcebdc8259e8)
+
+
+
+## Succesfully completed Python Online Workshop 
+
+ - Thank you guys  :handshake:   
+ - Thanks for your support  :pray:    
