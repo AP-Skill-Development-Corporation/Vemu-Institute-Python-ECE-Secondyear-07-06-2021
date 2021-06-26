@@ -421,4 +421,4 @@ Thank you...
 ## Succesfully completed Python Online Workshop 
 
  - Thank you guys  :handshake:   
- - Thanks for your support  :pray:    
+ - Thanks for your support  :pray:  :smiley: :blush:   
