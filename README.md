@@ -88,7 +88,7 @@ Thank you...
  - Features Of Python
  - Diferent Types of Softwares for python programming
 
-## Python Slides :pager:
+## Python Slides
     
     
 [Python PPT](https://github.com/AP-Skill-Development-Corporation/Vemu-Institute-Python-ECE-Secondyear-07-06-2021/blob/main/Programming_Using_Python_Slides.pdf)
